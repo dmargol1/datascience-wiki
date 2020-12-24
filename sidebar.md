@@ -5,6 +5,8 @@
 
 #### [The Future of the Subreddit and Its Moderation](https://www.reddit.com/r/datascience/comments/6njyw2/meta_the_future_of_rdatascience_and_its_moderation/)
 
+#### [State of the Subreddit 2020](https://www.reddit.com/r/datascience/comments/hdmbkd/meta_state_of_the_subreddit_2020/)
+
 #### [How to get user flair](https://www.reddit.com/r/datascience/comments/6lrrle/meta_now_accepting_user_flair_requests/)
 
 ---
